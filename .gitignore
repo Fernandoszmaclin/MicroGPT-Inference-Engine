@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+/build/
+/dist/
+/microgpt/_microgpt_attention.dll
+/microgpt/_microgpt_attention.dylib
+/microgpt/_microgpt_attention.so
+/demo.npz
